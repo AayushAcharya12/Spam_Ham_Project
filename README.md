@@ -27,7 +27,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Demo
-![Image alt]{https://github.com/AayushAcharya12/Spam_Ham_Project/blob/3c4657064c1d5aa5ad452598bb4764e8b8d24913/Screenshot%202026-05-04%20112411.png}
+
 
 ## 📁 Project Structure
 Project4/
